@@ -1,0 +1,36 @@
+Responsável: Pedro Gustavo
+
+📌 Introdução
+Este relatório apresenta o processo de implementação de ferramentas na Farmácia Abstergo, realizado por Pedro Gustavo. O objetivo do projeto foi elencar 3 serviços AWS com foco na redução de custos imediatos e na modernização dos processos internos, especialmente voltados para gestão de estoque, atendimento ao cliente e segurança de dados.
+
+🛠️ Descrição do Projeto
+O projeto foi dividido em 3 etapas, cada uma com objetivos específicos:
+Etapa 1
+- Ferramenta: Amazon S3
+- Foco: Armazenamento seguro e escalável
+- Caso de uso: Digitalização de receitas médicas e documentos fiscais, armazenados em buckets S3 com controle de acesso, reduzindo custos com papel e espaço físico.
+Etapa 2
+- Ferramenta: AWS Lambda
+- Foco: Automação de processos sem servidor
+- Caso de uso: Criação de funções Lambda para automatizar notificações de reposição de estoque e envio de alertas sobre validade de medicamentos, eliminando a necessidade de servidores dedicados.
+Etapa 3
+- Ferramenta: Amazon RDS
+- Foco: Banco de dados gerenciado
+- Caso de uso: Migração do sistema de gestão de clientes e estoque para RDS, garantindo alta disponibilidade, backups automáticos e redução de custos com manutenção de banco de dados local.
+
+✅ Conclusão
+A implementação das ferramentas na Abstergo Industries trouxe benefícios como:
+- Redução de custos com infraestrutura física e servidores
+- Maior segurança e organização de documentos médicos e fiscais
+- Automação de processos críticos (estoque e validade de medicamentos)
+- Melhoria na experiência do cliente com sistemas mais ágeis e confiáveis
+Recomenda-se a continuidade da utilização dos serviços implementados e a avaliação de novas soluções AWS, como Amazon CloudFront (para otimizar o site da farmácia) e AWS Cost Explorer (para monitorar gastos em tempo real).
+
+📎 Anexos
+- Manual de configuração do Amazon S3
+- Scripts de automação em AWS Lambda
+- Documento de arquitetura do banco de dados RDS
+- Planilha comparativa de custos antes e depois da migração
+
+Assinatura do Responsável pelo Projeto:
+Pedro Gustavo
